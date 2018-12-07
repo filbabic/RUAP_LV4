@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3D744364-C5AA-4CDB-BF54-3434D98A5461}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.RUAP__LV4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RUAP_LV4/test/SearchTest.cs">
+    <Files>
+      <File FileName="RUAP_LV4/test/AddToCard.cs" Line="26" Column="10" />
+      <File FileName="RUAP_LV4/test/AddToFavorites.cs" Line="1" Column="1" />
+      <File FileName="RUAP_LV4/test/NavigateToAboutUs.cs" Line="1" Column="1" />
+      <File FileName="RUAP_LV4/test/NavigateToTables.cs" Line="1" Column="1" />
+      <File FileName="RUAP_LV4/test/SearchTest.cs" Line="22" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RUAP_LV4" expanded="True">
+            <Node name="RUAP_LV4" expanded="True">
+              <Node name="SeleniumTests" expanded="True">
+                <Node name="AddToCard" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
